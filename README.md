@@ -1,4 +1,4 @@
-﻿# W4L1 – React: verkkokaupan tuotelistaus
+﻿# Harjoitus 7 – React: verkkokaupan tuotelistaus
 
 ## Tavoite
 
